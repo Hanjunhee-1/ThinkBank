@@ -2,7 +2,7 @@
 - SpringBoot 프로젝트를 실행하기 위한 것이다. 
 - `@SpringBootApplication` 이라는 어노테이션을 class 위에 명시하여 사용한다.
 - 생긴 것은 다음과 같이 생겼다.<br/>
-    ![img](./img/[spring%20구조]SpringBootApplication에%20관하여(1).png)
+    ![img](./img/[spring%20구조]SpringBootApplication에%20관하여(1).png) <br/>
     그냥 Java 파일을 쌩(?)으로 만들었을 때의 모습에서 SpringBoot 어노테이션이 붙은 모습이다.
 <br/><br/><br/>
 
